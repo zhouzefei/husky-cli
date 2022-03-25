@@ -1,6 +1,6 @@
 {
   "name": "tdhusky-cli",
-  "version": "1.0.1cxkq",
+  "version": "1.0.1",
   "description": "husky初始化",
   "main": "index.js",
   "bin": {
